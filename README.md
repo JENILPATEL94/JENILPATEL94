@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Jenil Patel 👋
 
-<!--
-**JENILPATEL94/JENILPATEL94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Python & Django | Java | AI/ML
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in building practical web applications and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on full-stack development, backend systems, databases, and machine learning projects.
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Epicare – DermaVision AI
+AI-powered skin disease detection system using Deep Learning and Python.
+
+**Tech:** Python • TensorFlow • EfficientNetV2-S • Django • React • Gemini
+
+🔗 [View Project](https://github.com/JENILPATEL94/Epicare-DermaVision-AI)
+
+---
+
+### 🍔 FoodBuddy
+Full-stack food ordering platform built with Django and PostgreSQL.
+
+**Tech:** Python • Django • PostgreSQL • HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/JENILPATEL94/FoodBuddy)
+
+---
+
+### ☕ Java Food Ordering System
+Console-based food ordering system developed using Java and Object-Oriented Programming concepts.
+
+**Tech:** Java • OOP • Data Structures
+
+🔗 [View Project](https://github.com/JENILPATEL94/Java-Food-Ordering-System)
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- Django
+- React
+- Bootstrap
+- TensorFlow
+- Pillow
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 📚 Currently Learning
+
+- Full-Stack Development
+- MERN Stack
+- Machine Learning & Deep Learning
+- Backend Development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@JENILPATEL94](https://github.com/JENILPATEL94)
+
+---
+
+⭐ Thanks for visiting my profile!
